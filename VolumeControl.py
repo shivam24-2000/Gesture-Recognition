@@ -18,7 +18,6 @@ volume.SetMasterVolumeLevel(-20.0, None)
 Detector = handDetect()
 
 
-
 capture = cv2.VideoCapture(0)
 
 while True:

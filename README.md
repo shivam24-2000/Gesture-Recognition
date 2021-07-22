@@ -1,2 +1,2 @@
 # Gesture-Rocognition
-This project reads the hands pattern to control the screen
+This project reads the hand pattern to control the screen
